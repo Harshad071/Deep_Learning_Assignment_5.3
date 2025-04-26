@@ -60,9 +60,9 @@ pip install tensorflow pandas numpy matplotlib seaborn scikit-learn
 
 After training the LSTM model on the Amazon Product Reviews dataset, the following results were achieved:
 
-- **Accuracy**: 96.06%
-- **Precision**: 96.06%
-- **F1-score**: 96.06%
+- **Accuracy**: 95.06%
+- **Precision**: 95.06%
+- **F1-score**: 95.06%
 
 These results indicate that the model performs well in classifying reviews into positive and negative sentiment categories. The confusion matrix and classification report further validate the model's performance.
 
